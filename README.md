@@ -44,4 +44,4 @@ Check Out Contact Page:  <br/>
 <br />
 Follow the link to connect with me on LinkedIn!:  <br/>
 <img src="./images/site_linkedin.png" height="80%" width="80%" alt="Website"/>
-</p>
+</p> 
