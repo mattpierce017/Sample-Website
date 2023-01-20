@@ -39,7 +39,7 @@ Scroll Down to Footer That also has redirecting buttons:  <br/>
 <br />
 <br />
 Check Out Contact Page:  <br/>
-<img src="./images/site_contact.png" height="80%" width="80%" alt="Website"/>
+<img src="./images/site-contact.png" height="80%" width="80%" alt="Website"/>
 <br />
 <br />
 Follow the link to connect with me on LinkedIn!:  <br/>
